@@ -1,6 +1,6 @@
 # stock2music
-This Matlab project is to help blind people visualize stock data\n
-Run it as follows\n
-stock2music(<ticker-symbol>)\n
+This Matlab project is to help blind people visualize stock data
+Run it as follows
+stock2music(<ticker-symbol>)
 Example: stock2music('GOOG')
 
